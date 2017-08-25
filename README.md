@@ -1,6 +1,3 @@
-# Quizzler
-Learn to make iOS Apps 📱 | Project Stub | (Swift 2.0/Xcode 7) - Quizzler App
-
 Download the starter project files as .zip and extract to your desktop. --->
 
 ## Finished App
@@ -43,5 +40,3 @@ Download the starter project files as .zip and extract to your desktop. --->
         list.append(Question(text: "Chocolate affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.", correctAnswer: true))
         
         
-
-Copyright 2015 London App Brewery
